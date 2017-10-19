@@ -1,0 +1,13 @@
+URI:/login.html, ARGS:(null)
+URI:/css/bootstrap.min.css, ARGS:(null)
+URI:/css/main.css, ARGS:(null)
+URI:/js/jquery-2.1.3.min.js, ARGS:(null)
+URI:/js/bootstrap.min.js, ARGS:(null)
+URI:/images/teaLogo.jpg, ARGS:(null)
+URI:/images/socialMedia.jpg, ARGS:(null)
+URI:/images/background.jpg, ARGS:(null)
+URI:/index.html, ARGS:email=a%40gmail.com&password=test&submit=Login
+URI:/images/bobby.jpg, ARGS:(null)
+URI:/register.html, ARGS:(null)
+URI:/index.html, ARGS:username=john&email=a%40gmail.com&password=test&phone_no=911&addr1=700+Health+Sciecnes+Dr%2C&addr2=Chapin+A1111&submit=Register
+URI:/index.html, ARGS:(null)

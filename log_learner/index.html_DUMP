@@ -1,0 +1,5 @@
+phone_no=avg_length:2?5,char_set:3
+email=avg_length:11?11,char_set:7
+password=avg_length:5?5,char_set:1
+submit=avg_length:5?5,char_set:1
+all=max_args:3
